@@ -25,6 +25,6 @@
   
 ##
 <div>
-  <a href="www.linkedin.com/in/bruna-brandão-ab82b4232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="http://www.linkedin.com/in/bruna-brandão-ab82b4232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
