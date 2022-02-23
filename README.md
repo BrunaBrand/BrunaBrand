@@ -6,9 +6,6 @@
 - 📫 Me contate no email: brunabrandaosant19@gmail.com
 - 😄 Pronouns: ela/dela
 -->
-
-##
-
 <div align="center">
   <a href="https://github.com/BrunaBrand">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaBrand&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
