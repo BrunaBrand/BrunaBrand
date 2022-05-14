@@ -1,7 +1,7 @@
 ### Olá pessoal! Sou Bruna Brandão  👋
 
 - 🌱 Atualmente estudo HTML CSS e Javascript
-- 📫 Me contate no email: brunabrandaosant19@gmail.com
+- 📫 Me contate no email: bruna.brandaoc@hotmail.com
 -->
 
 <div align="center">
