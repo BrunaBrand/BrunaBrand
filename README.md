@@ -16,6 +16,7 @@
   <img align="center" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Bruna-gif" src="https://i.picasion.com/pic92/1e828e8d5d96deb522cc151fb8ebf955.gif" width="90" height="90" border="0">
+  
 </div>
   
 ##
